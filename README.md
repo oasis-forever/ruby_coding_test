@@ -1,6 +1,7 @@
 ## 1. Ruby version for implementation
 
-ruby 2.7.1p83 (2020-03-31 revision a0c7c23c9c) [x86_64-linux]
+* WSL2(Ubuntu 20.04.1 LTS)
+* ruby 2.7.1p83 (2020-03-31 revision a0c7c23c9c) [x86_64-linux]
 
 ## 2. Direcroty Structure
 
