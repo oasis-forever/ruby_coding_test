@@ -1,7 +1,8 @@
-## 1. Ruby version for implementation
+## 1. Enviroment
 
-* WSL2(Ubuntu 20.04.1 LTS)
-* ruby 2.7.1p83 (2020-03-31 revision a0c7c23c9c) [x86_64-linux]
+* WSL(Ubuntu 20.04.1 LTS (GNU/Linux 4.19.128-microsoft-standard x86_64))
+* rbenv 1.1.2-35-g0843745
+* ruby 2.7.2p137 (2020-10-01 revision 5445e04352) [x86_65-darwin19]
 
 ## 2. Direcroty Structure
 
