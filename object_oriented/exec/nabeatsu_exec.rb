@@ -1,4 +1,4 @@
-require './lib/nabeatsu'
+require '../lib/nabeatsu'
 
 nabeatsu = Nabeatsu.new
 

@@ -1,4 +1,4 @@
-require './lib/fizzbuzz'
+require '../lib/fizzbuzz'
 
 fizzbuzz = FizzBuzz.new
 
